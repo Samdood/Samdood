@@ -1,5 +1,6 @@
 Hi there 👋! My name is Sam Kim. I am currently working as a Software Engineering intern at Amazon. I completed my undergrad in CS & Math at Georgia Tech, and I plan on returning to Tech for masters in CS (Machine Learning specialization) after my internship. 
 
+Outside of academics, I enjoy my time singing (I was a part of an a cappella group), lifting, and photography!
 <!--
 **Samdood/Samdood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
